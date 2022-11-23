@@ -1,0 +1,27 @@
+table{
+    border-collapse: separate;
+    box-shadow:2px 2px 1px#000000;
+    text-align: center;
+    color: #641414;
+}
+
+table, th{
+    background-color:  #669966;
+    border: rgb(0, 0, 0) 1px solid;
+    box-shadow:1px 1px 1px#000000;
+
+
+}
+table, td{
+    background-color:  #ffffcc;
+    border: rgb(3, 3, 3) 1px solid;
+    box-shadow:1px 1px 1px#000000;
+
+}
+#byellow{
+    background-color: #ffff99;
+}
+
+#borange{
+    background-color: #ffcc99;
+}

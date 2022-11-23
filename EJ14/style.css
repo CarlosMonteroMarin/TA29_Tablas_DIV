@@ -1,0 +1,28 @@
+table{
+    border-collapse: separate;
+    border: rgb(5, 5, 5) 1px solid;
+    box-shadow:4px 4px 1px#8a8a8a;
+    width: 20%;
+
+}
+.tabla, th{
+    background-color:  #fffe9b;
+    border: rgb(0, 0, 0) 1px solid;
+}
+#encab{
+    background-color: #f5f5e4;
+}
+
+
+#dcentral{
+position: relative;
+text-align: center;
+}
+
+#dtabla{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    width: 100%;
+
+}

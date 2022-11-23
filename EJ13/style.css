@@ -1,0 +1,37 @@
+table{
+    border-collapse: separate;
+    border: rgb(168, 168, 168) 1px solid;
+    box-shadow:4px 4px 1px#8a8a8a;
+    width: 99%;
+}
+
+.tabla, th{
+    border: rgb(163, 163, 163) 1px solid;
+
+}
+.tabla, td{
+    border: rgb(161, 161, 161) 1px solid;
+}
+
+#bgverde{
+    background-color: 
+    #99ff98;
+}
+
+#bgazul{
+    background-color: aqua;
+    text-align: left;
+}
+
+#bgrosa{
+    background-color: palevioletred;
+    text-align: right;
+}
+
+#txtrojo{
+    color: red;
+}
+#titulo{
+    text-align: center;
+    font-weight: bold;
+}

@@ -5,13 +5,13 @@ EJ 12: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ12/instalaciones.h
 
 EJ 13: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ13/
 
-EJ 14: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ14/ edit
+EJ 14: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ14/
 
 EJ 15: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ15/
 
 EJ 16: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ16/
 
-EJ 17: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ17/ edit
+EJ 17: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ17/
 
 EJ 18: https://carlosmonteromarin.github.io/TA29_Tablas_DIV/EJ18/
 
